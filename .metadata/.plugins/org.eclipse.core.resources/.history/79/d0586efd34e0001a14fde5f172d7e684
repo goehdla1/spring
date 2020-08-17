@@ -1,0 +1,11 @@
+package com.ict.ex07;
+
+public class MariaDAO {
+	public MariaDAO() {
+		System.out.println("MariaDAO 생성자");
+	}
+
+	public void prn() {
+		System.out.println("MariaDAO 실행 메소드");
+	}
+}

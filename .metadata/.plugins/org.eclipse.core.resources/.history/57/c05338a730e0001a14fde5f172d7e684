@@ -1,0 +1,11 @@
+package com.ict.ex07;
+
+public class Service {
+	private DAO dao ; // DAO 라는 클래스를 dao 자료형으로 만든다.
+	private String name; // 변수
+	
+	public Service() {
+		System.out.println("서비스 생성자");
+	}
+	
+}
