@@ -6,11 +6,17 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="0819_WebMybatis"/>
+			<item value="0818_WebJDBC"/>
+			<item value="0818_WebDI2"/>
 			<item value="0817_WebDI"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="0819_WebMybatis"/>
+			<item value="0818_WebJDBC"/>
+			<item value="0818_WebDI2"/>
 			<item value="0817_WebDI"/>
 		</list>
 		<list key="version">
