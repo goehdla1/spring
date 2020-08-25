@@ -1,7 +1,0 @@
-package com.ict.ex04;
-
-public class TestMain_DI {
-	public static void main(String[] args) {
-		
-	}
-}

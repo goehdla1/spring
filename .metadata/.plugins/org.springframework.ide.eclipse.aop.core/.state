@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="0814_DI"/>
-<aop-project name="0820_MVC_01"/>
+<aop-project name="0825_MVC_07"/>
+<aop-project name="0824_MVC_04_annotation"/>
 <aop-project name="0821_MVC_02"/>
-<aop-project name="0821_MVC_03"/>
 <aop-project name="0817_WebDI"/>
+<aop-project name="0824_MVC_06"/>
+<aop-project name="0819_WebMybatis"/>
+<aop-project name="0820_MVC_01"/>
+<aop-project name="0821_MVC_03"/>
 <aop-project name="0818_WebDI2"/>
 <aop-project name="0818_WebJDBC"/>
-<aop-project name="0819_WebMybatis"/>
+<aop-project name="0824_MVC_05"/>
 </aop-reference-model>
