@@ -6,10 +6,13 @@
 <aop-project name="0821_MVC_02"/>
 <aop-project name="0817_WebDI"/>
 <aop-project name="0824_MVC_06"/>
+<aop-project name="0827_MVC_JDBC2"/>
 <aop-project name="0819_WebMybatis"/>
 <aop-project name="0820_MVC_01"/>
 <aop-project name="0821_MVC_03"/>
+<aop-project name="0827_MVC_Mybatis"/>
+<aop-project name="0826_MVC_JDBC"/>
 <aop-project name="0818_WebDI2"/>
-<aop-project name="0818_WebJDBC"/>
 <aop-project name="0824_MVC_05"/>
+<aop-project name="0818_WebJDBC"/>
 </aop-reference-model>
