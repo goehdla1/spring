@@ -2,6 +2,7 @@
 <aop-reference-model>
 <aop-project name="0814_DI"/>
 <aop-project name="0825_MVC_07"/>
+<aop-project name="0914_MVC_MyBatis"/>
 <aop-project name="0824_MVC_04_annotation"/>
 <aop-project name="0821_MVC_02"/>
 <aop-project name="0817_WebDI"/>
@@ -10,6 +11,7 @@
 <aop-project name="0819_WebMybatis"/>
 <aop-project name="0820_MVC_01"/>
 <aop-project name="0821_MVC_03"/>
+<aop-project name="0916_MVC_BBS"/>
 <aop-project name="0827_MVC_Mybatis"/>
 <aop-project name="0826_MVC_JDBC"/>
 <aop-project name="0818_WebDI2"/>
