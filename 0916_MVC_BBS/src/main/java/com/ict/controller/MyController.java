@@ -245,18 +245,7 @@ public class MyController {
 		return mv;
 	}
 	
-	// 로그인화면
-	@RequestMapping("login.do")
-	public ModelAndView LoginCommand() {
-		ModelAndView mv = new ModelAndView();
-		return mv;
-	}
 	
-	// 로그인 
-	@RequestMapping(value = "login_ok.do" , method = RequestMethod.POST)
-	public ModelAndView loginOkCommand(HttpHttpSession ses) {
-		
-	}
 	
 }
 
