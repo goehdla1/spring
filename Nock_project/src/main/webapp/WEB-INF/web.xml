@@ -36,7 +36,7 @@
 
 	<!-- 시작페이지 지정 -->
 	<welcome-file-list>
-		<welcome-file>/WEB-INF/views/homepage.jsp</welcome-file>
+		<welcome-file>/WEB-INF/views/c_f01.jsp</welcome-file>
 	</welcome-file-list>
 	<!-- 한글 처리 -->
 	<filter>

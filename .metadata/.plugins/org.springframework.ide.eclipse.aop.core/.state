@@ -20,6 +20,7 @@
 <aop-project name="0922_Board"/>
 <aop-project name="0826_MVC_JDBC"/>
 <aop-project name="0818_WebDI2"/>
-<aop-project name="0818_WebJDBC"/>
 <aop-project name="0824_MVC_05"/>
+<aop-project name="0818_WebJDBC"/>
+<aop-project name="1020_Debugging_JUnit"/>
 </aop-reference-model>

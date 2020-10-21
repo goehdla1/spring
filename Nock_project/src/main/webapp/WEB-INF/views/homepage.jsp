@@ -226,10 +226,10 @@
 
 	<hr>
 
-	<div class="wapper" style="position: relative; width:100%; z-index: 1">
+	<div class="wapper" style="position: relative; width: 100%; z-index: 1">
 		<nav id="menu2">
 			<ul>
-			
+
 				<li><a href="#">뮤지컬</a>
 					<ul class="sub">
 						<li><a href="#">오리지널/내한</a></li>
@@ -237,36 +237,22 @@
 						<li><a href="#">창작뮤지컬</a></li>
 						<li><a href="#">뮤지컬넌버벌 <br>퍼포먼스
 						</a></li>
-						<li><a href="#">패키지공연</a></li>
+
 					</ul></li>
 				<li><a href="#">콘서트</a>
 					<ul class="sub">
-						<li><a href="#">발라드</a></li>
+						<li><a href="#">국내공연</a></li>
 						<li><a href="#">내한공연</a></li>
-						<li><a href="#">락/메탈</a></li>
-						<li><a href="#">패스티벌</a></li>
-						<li><a href="#">랩/힙합</a></li>
-						<li><a href="#">팬클럽</a></li>
-						<li><a href="#">재즈/소울</a></li>
-						<li><a href="#">인디</a></li>
-						<li><a href="#">디너쇼</a></li>
-						<li><a href="#">토크/강연</a></li>
-						<li><a href="#">포크/트로트</a></li>
 					</ul></li>
 				<li><a href="#">연극</a></li>
 				<li><a href="#">클래식/무용</a>
 					<ul class="sub">
-						<li><a href="#">클래식</a></li>
-						<li><a href="#">오페라</a></li>
+						<li><a href="#">클래식/오페라</a></li>
 						<li><a href="#">발레/무용</a></li>
 						<li><a href="#">국악</a></li>
 					</ul></li>
 				<li><a href="#">아동</a>
-					<ul class="sub">
-						<li><a href="#">기타</a></li>
-						<li><a href="#">뮤지컬</a></li>
-						<li><a href="#">연극</a></li>
-					</ul></li>
+					</li>
 				<li><a href="#" style="font-size: 20px; color: black;">이벤트</a></li>
 				<li><a href="#"
 					style="font-size: 20px; padding: 0; margin: 0; color: black;">랭킹</a></li>
@@ -302,7 +288,8 @@
 		<i class="fas fa-ticket-alt" style="color: black; margin-right: 20px;"></i>오늘의
 		추천
 	</h1>
-	<br><br>
+	<br>
+	<br>
 	<table style="width: 70%; margin: 0 auto;">
 		<tr>
 			<td style="width: 30%;"><img class="scale"
@@ -517,7 +504,7 @@
 						나의PS파트너
 						<연극>
 					</h3>
-				<button>예매하기</button>
+					<button>예매하기</button>
 				</div>
 			</div>
 			<div class="swiper-slide">
@@ -548,7 +535,10 @@
 				<div>
 					<img alt="" src="resources/images/연극(이퀄).jpg" id="swiper-img"
 						class="scale">
-						<h3>이퀄<연극></h3>
+					<h3>
+						이퀄
+						<연극>
+					</h3>
 					<button>예매하기</button>
 				</div>
 			</div>
@@ -560,7 +550,7 @@
 						히스토리보이즈
 						<연극>
 					</h3>
-				<button>예매하기</button>
+					<button>예매하기</button>
 				</div>
 
 			</div>

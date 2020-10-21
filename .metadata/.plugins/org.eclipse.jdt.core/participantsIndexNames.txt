@@ -45,5 +45,7 @@ C:\study\springstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\32100
 \0820_MVC_01\src\main\java
 C:\study\springstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2988605450.index
 \0921_MVC_BBC2\src\main\java
+C:\study\springstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1906132582.index
+\1020_Debugging_JUnit\src\main\java
 C:\study\springstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3468385829.index
 \0827_MVC_JDBC2\src\main\java
